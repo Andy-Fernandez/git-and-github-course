@@ -1,1 +1,3 @@
-Este es un archivo cualquiera.
+Este es un archivo cualquiera llamado archivo.txt
+
+Y si hacemos un cambio veremos que pasa en la terminal.
