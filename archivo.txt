@@ -3,3 +3,5 @@ Este es un archivo cualquiera llamado archivo.txt
 Y si hacemos un cambio veremos que pasa en la terminal.
 
 Y seguimos practicando con diferentes comandos.
+
+Desearia poder ser un increible desarrollador frontend y consguir un trabajo!
