@@ -1,3 +1,5 @@
+ESTA ES UNA CABECERA EN TXT PORQUE NO QUIERO HACER HTML xd
+
 Este es un archivo cualquiera llamado archivo.txt
 
 Y si hacemos un cambio veremos que pasa en la terminal.
