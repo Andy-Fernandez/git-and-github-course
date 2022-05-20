@@ -1,4 +1,4 @@
-ESTA ES UNA CABECERA EN TXT PORQUE NO QUIERO HACER HTML xd
+ESTA ES UNA CABECERA EN TXT PORQUE NO QUIERO HACER HTML xd y teminar este curso con el 20% indipensable xd∫
 
 Este es un archivo cualquiera llamado archivo.txt
 
@@ -8,4 +8,4 @@ Y seguimos practicando con diferentes comandos.
 
 Desearia poder ser un increible desarrollador frontend y consguir un trabajo!
 
-NO QUEREMOS QUE ESTO SEA ENVIADO A NUESTRO REPOSITORIO!
+NO QUEREMOS QUE ESTO SEA ENVIADO A NUESTRO REPOSITORIO! //Deberiamos quitar esta linea
