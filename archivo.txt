@@ -1,3 +1,5 @@
+ESTA ES UNA CABECERA EN TXT PORQUE NO QUIERO HACER HTML xd y teminar este curso con el 20% indipensable xd∫
+
 Este es un archivo cualquiera llamado archivo.txt
 
 Y si hacemos un cambio veremos que pasa en la terminal.
@@ -6,4 +8,4 @@ Y seguimos practicando con diferentes comandos.
 
 Desearia poder ser un increible desarrollador frontend y consguir un trabajo!
 
-//Listo lo eliminamos papus y mamus ∫∫:3
+NO QUEREMOS QUE ESTO SEA ENVIADO A NUESTRO REPOSITORIO! //Deberiamos quitar esta linea
